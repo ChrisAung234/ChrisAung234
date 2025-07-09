@@ -6,4 +6,4 @@ I'm a self-learning data analyst currently taking a DataCamp course.
 🚀 I'm building projects to showcase my growth. 
 
 
-- 🌱 I’m currently learning Python at Datacamp.
+- 🌱 I’m currently learning Sampling with Python at Datacamp.
